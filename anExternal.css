@@ -1,0 +1,6 @@
+p.a{font-family: 'Brush Script MT', cursive; font-size: 150%; padding: 30px}
+p.b{font-family: 'Courier New', monospace; font-size: 150%; padding: 30px;}
+.container {position: relative; text-align: center; color: white;}
+.centered {position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);}
+img.a{float: right; border-radius: 50%;}	
+p.dotted {border-style: dotted;}
